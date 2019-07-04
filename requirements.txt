@@ -34,7 +34,6 @@ jsonschema==3.0.1
 kdtree==0.16
 libarchive-c==2.8
 MarkupSafe==1.1.1
-mccabe==0.6.1
 menuinst==1.4.16
 mistune==0.8.4
 more-itertools==7.1.0
